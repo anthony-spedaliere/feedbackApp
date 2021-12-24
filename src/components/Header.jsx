@@ -1,4 +1,3 @@
-import { useState, useContext } from "react";
 // prop types used for type checking props to make sure that user enters the correct types - bool vs string vs int, etc.
 import PropTypes from "prop-types";
 
